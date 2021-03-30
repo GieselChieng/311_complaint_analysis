@@ -15,3 +15,11 @@ The agency needs answers to several questions. The answers to those questions mu
 4. Can a predictive model be built for a future prediction of the possibility of complaints of the type that you have identified in response to question 1? <br>
 
 Your organization has assigned you as the lead data scientist to provide the answers to these questions. You need to work on getting answers to them in this Capstone Project by following the standard approach of data science and machine learning.
+
+
+If you are interested in only the answers to these questions, kindly look into Project.file. I have also uploaded other supporting analysis I have completed so far for reference and additional information, the sequences of the documents should be:
+1. The Data Science Method
+2. Exploratory Data Analysis
+3. Feature Selections & Modeling
+4. TimeSeries Prediction
+
